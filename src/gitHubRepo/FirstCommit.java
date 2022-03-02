@@ -12,6 +12,8 @@ public class FirstCommit {
 		
 		System.out.println("This is in my local workspace");
 		
+		System.out.println("This is git, github");
+		
 		
 	}
 
